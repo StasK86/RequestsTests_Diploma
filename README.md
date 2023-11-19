@@ -1,4 +1,4 @@
-<h2 align="center"> Проект по автоматизации тестирования API для сайта сайта <a target="_blank" href="https://reqres.in/">reqres.in </a> </h2>
+<h2 align="center"> Проект по автоматизации тестирования API для сайта <a target="_blank" href="https://reqres.in/">reqres.in </a> </h2>
 
 <a target="_blank" href="https://reqres.in/">
 <p align="center">
