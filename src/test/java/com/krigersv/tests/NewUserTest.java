@@ -18,7 +18,7 @@ public class NewUserTest {
     @Tag("newUser_test")
     @Owner("Stas")
     @DisplayName("Создание нового пользователя")
-    void CreatingNewUserTest() {
+    void creatingNewUserTest() {
         NewUserModel newUser = new NewUserModel();
         newUser.setName("Stas");
         newUser.setJob("engineer");
