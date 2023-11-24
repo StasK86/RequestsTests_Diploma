@@ -1,8 +1,8 @@
 package com.krigersv.tests;
 
-import com.krigersv.models.LoginErrorRequesModel;
-import com.krigersv.models.LoginRequestModel;
-import com.krigersv.models.LoginRequestSpecModel;
+import com.krigersv.models.login.LoginErrorRequesModel;
+import com.krigersv.models.login.LoginRequestModel;
+import com.krigersv.models.login.LoginRequestSpecModel;
 import io.qameta.allure.Owner;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;

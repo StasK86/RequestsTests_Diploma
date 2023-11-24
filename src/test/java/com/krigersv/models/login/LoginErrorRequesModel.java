@@ -1,4 +1,4 @@
-package com.krigersv.models;
+package com.krigersv.models.login;
 
 import lombok.Data;
 

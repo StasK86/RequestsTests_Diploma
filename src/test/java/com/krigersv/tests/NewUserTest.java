@@ -1,7 +1,7 @@
 package com.krigersv.tests;
 
-import com.krigersv.models.NewUserModel;
-import com.krigersv.models.NewUserResponseModel;
+import com.krigersv.models.object.NewUserModel;
+import com.krigersv.models.object.NewUserResponseModel;
 import io.qameta.allure.Owner;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;

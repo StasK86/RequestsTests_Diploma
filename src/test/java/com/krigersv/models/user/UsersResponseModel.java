@@ -1,4 +1,4 @@
-package com.krigersv.models;
+package com.krigersv.models.user;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;
